@@ -1,0 +1,6 @@
+
+Hello, World! I am testing nstr.
+	test_nstr     pass:11   fail: 0      0ms
+ALL TESTS PASSED (11/11)
+tnecs Test End 
+ 
